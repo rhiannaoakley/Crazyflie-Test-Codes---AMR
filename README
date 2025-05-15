@@ -1,1 +1,11 @@
-# This repository is intended for developement work 
+Development Platform for Crazyflie Control via OptiTrack
+
+This repository serves as a hub for the development of algorithms to control Crazyflie nano-quadcopters using the position data
+provided by an OptiTrack motion capture system. It aims to create a well-structured codebase that facilitates:
+
+* **Real-time Position Tracking:** Integrating OptiTrack data for accurate localization of the Crazyflies.
+* **Control Algorithm Development:** Providing a framework for implementing various control strategies (e.g., PID, model predictive control).
+* **Experimentation and Validation:** Offering tools and examples for conducting flight experiments and validating control performance.
+* **Extensibility:** Designing the architecture to allow for the easy addition of new features and functionalities.
+
+microdronecontrol.wordpress.com
