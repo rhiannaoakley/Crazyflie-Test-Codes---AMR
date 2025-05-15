@@ -1,3 +1,3 @@
 All files wil require the Bitccraze cflib repositor to run. 
-NATNET SDK is required for optitrack data collection. This includes a plug in for
+NATNET SDK is required for optitrack data collection. This will include a plug-in for
 MatLab and Python.
